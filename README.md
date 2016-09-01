@@ -3,6 +3,7 @@
 To help me remember how to save user input.
 
 Main Activity
+
 Username ________________________
 
 Password ________________________
